@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> YoYo :-)
+         Do not Edit <code>src/App.js</code> YoYo :-)
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Do notLearn React
+          Do not Learn React
         </a>
       </header>
     </div>
